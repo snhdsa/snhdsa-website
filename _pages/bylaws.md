@@ -3,24 +3,23 @@ layout: bylaws
 title: "Bylaws of Southern New Hampshire Democratic Socialists of America"
 permalink: /bylaws/
 ---
- 
+
 
 
 # **Bylaws of Southern New Hampshire**
-
-**Democratic Socialists of America**
+# **Democratic Socialists of America**
 
 ---
 
 # **Article I. Name**
 
-## **Section 1\.** 
+## **Section 1\.**
 
 The name of the chapter shall be Southern New Hampshire Democratic Socialists of America, hereafter referred to as “SNHDSA.” SNHDSA shall be a not-for-profit corporation.
 
 # **Article II. Purpose**
 
-## **Section 1\.** 
+## **Section 1\.**
 
 The purpose of SNHDSA shall be to promote and advance economic and cultural changes which shift society towards a democratic socialist model, in which the means of production are socially owned and controlled and the abolition of the class system.
 
@@ -40,7 +39,7 @@ DSA dues must be paid to the national office for membership in SNHDSA. Individua
 
 ## **Section 3\. “Good Standing”**
 
-Members are considered in “good standing” provided that they are considered in good standing with DSA National and if they fulfill the residency requirement outlined in Section 1\. 
+Members are considered in “good standing” provided that they are considered in good standing with DSA National and if they fulfill the residency requirement outlined in Section 1\.
 
 ## **Section 4\. “Active”**
 
@@ -58,7 +57,7 @@ All members of SNHDSA are expected to adhere to the Code of Conduct from the DSA
 
 ### Section 7.1 Expulsion
 
-Members may be expelled from SNHDSA if they are found to be in substantial disagreement with the principles of democratic socialism, or if they are found to be engaging in undemocratic or disruptive behavior, or found to be consistently operating in bad faith within SNHDSA. Any political disagreement must be an open case, as written in the National DSA Unified Grievance Policy. 
+Members may be expelled from SNHDSA if they are found to be in substantial disagreement with the principles of democratic socialism, or if they are found to be engaging in undemocratic or disruptive behavior, or found to be consistently operating in bad faith within SNHDSA. Any political disagreement must be an open case, as written in the National DSA Unified Grievance Policy.
 
 ### Section 7.2 Grievance Policy
 
@@ -72,7 +71,7 @@ At the end of the investigative period the members of the ad-hoc grievance commi
 
 Any expelled SNHDSA member may appeal their expulsion to the National Political Committee of DSA.
 
-## **Section 8\.** 
+## **Section 8\.**
 
 Members may resign from SNHDSA at any time.
 
@@ -95,23 +94,23 @@ SNHDSA shall hold one (1) Annual meeting per year. The date of the annual meetin
 
 # **Article V. Officers and Elections**
 
-## **Section 1\.** 
+## **Section 1\.**
 
 SNHDSA members shall elect five (5) chapter officers, following Article 4, Section 2 of these bylaws. These officers shall consist of two (2) Co-Chairs, one (1) Secretary, one (1) Treasurer, and one (1) At-Large officer. The Steering Committee shall be considered a committee of equals with no individual member having final say over chapter decisions. These members shall make up the Steering Committee of SNHDSA which shall consist of five (5) SNHDSA members in good standing, elected at the Annual Meeting, with a term that expires at the beginning of the next Annual Meeting. Nominations for chapter officers shall be received by the outgoing Steering Committee no sooner than four (4) weeks and no later than two (2) weeks before an Annual Meeting. Members shall either be nominated for a chapter officer position by a SNHDSA member in good standing, or by themselves if they are a SNHDSA member in good standing. Upon receipt of a nomination request the outgoing Steering Committee must solicit the chapter membership for at least one (1) other member in good standing to endorse the nomination, after which the candidate shall be added to the ballot at the following Annual Meeting.
 
-## **Section 2\.** 
+## **Section 2\.**
 
-All SNHDSA officers shall adhere to the conflict of interest policy outlined in the national DSA Code of Conduct Section C, Item 3\. 
+All SNHDSA officers shall adhere to the conflict of interest policy outlined in the national DSA Code of Conduct Section C, Item 3\.
 
 ## **Section 3\.**
 
 Elections shall be conducted via instant-runoff voting for any office which can be only occupied by one person, while elections where multiple people can be elected to the same position, i.e. through a slate, shall be conducted via Scottish Single Transferable Vote. No member may vote for chapter officers if they have not been a Member in Good Standing for at least 30 days. All elections must be handled by an impartial Election Commission tasked with creating the ballots, counting the votes, and delivering the results. The Election Commission may not have any members who are running in an election they are tasked with handling.
 
-## **Section 4\.** 
+## **Section 4\.**
 
 The responsibilities of the Co-Chairs shall be: a) to preside over Steering Committee meetings, b) chair committees where chairperson vacancies exist or when the committee becomes defunct pursuant to Article IV Section 3, c) coordinating over the day-to-day work and operation of SNHDSA branches and committees, d) acts as primary, though not the exclusive, spokespersons on behalf of the chapter to maintain relationships with other organizations in a capacity compliant with the democratic processes of SNHDSA.
 
-## **Section 5\.** 
+## **Section 5\.**
 
 The responsibilities of the secretary shall be: a) answering all correspondence and queries made within the membership of SNHDSA, b) maintaining an up-to-date membership list for SNHDSA, c) temporarily assuming the responsibilities of a co-chair if neither co-chair is able to do so, d) maintaining communication with the DSA national organization, e) maintaining custody of all meeting minutes and chapter records (including membership lists) and providing records to their successor.
 
@@ -119,7 +118,7 @@ The responsibilities of the secretary shall be: a) answering all correspondence 
 
 The responsibilities of the treasurer shall be: a) acting as the head of the SNHDSA’s standing fundraising committee and presiding over all fundraising committee meetings, b) maintaining the funds and financial records of SNHDSA, c) depositing all funds collected by SNHDSA into the chapter bank account, d) maintaining SNHDSA’s fiscal policy and presenting amendments to the fiscal policy to SNHDSA general membership, e) preparing an annual budget and financial report to SNHDSA to be presented at an annual meeting with assistance of the standing fundraising committee.
 
-## **Section 7\.** 
+## **Section 7\.**
 
 The At-Large Officer will advocate for and support efforts of the Chapter’s Committees, and Working Groups as needed; liaise with campaigns led by Committees, and Working Groups in a supporting or leading role; and work to support the efforts of Committees, and Working Groups and connect campaigns related thereto; and perform other duties as assigned by the Steering Committee.
 
@@ -127,7 +126,7 @@ The At-Large Officer will advocate for and support efforts of the Chapter’s Co
 
 In the event of a vacancy of SNHDSA officers, the remaining members of the SNHDSA Steering Committee shall appoint an SNHDSA member in good standing to fill the vacant position for the remainder of the Steering Committee term. Appointments shall require a unanimity of the remaining steering committee members; if such consensus cannot be reached, or ⅔ of the steering committee are vacant, an emergency general meeting will be called and the appointment put to a vote requiring ⅔ majority of SNHDSA members in good standing present at the meeting.
 
-## **Section 9\.** 
+## **Section 9\.**
 
 SNHDSA officers may resign their position at any time by submitting written notice to the chapter membership. Resignations shall be considered in effect from the time of their submission.
 
@@ -167,14 +166,14 @@ Candidates are prohibited from participating in Commissions related to officer e
 
 ## **Section 3\. Committees**
 
-A Committee is a group within the Local Chapter that is tasked with carrying out an internal function for the Chapter. Ratification of these Bylaws will establish the following committees: 
-<br>Communications Committee <br>Membership Committee <br>Fundraising Committee <br>Committees may be created by a vote of the General Membership at a General Meeting by way of passing a resolution containing a charter that details the purpose of the committee, the powers granted to the Committee, and the internal structure and functioning of the Committee. Committee charters may be amended by a vote of the General Membership at a General Meeting. Committees may submit requests for anonymized member data to the Steering Committee. 
+A Committee is a group within the Local Chapter that is tasked with carrying out an internal function for the Chapter. Ratification of these Bylaws will establish the following committees:
+<br>Communications Committee <br>Membership Committee <br>Fundraising Committee <br>Committees may be created by a vote of the General Membership at a General Meeting by way of passing a resolution containing a charter that details the purpose of the committee, the powers granted to the Committee, and the internal structure and functioning of the Committee. Committee charters may be amended by a vote of the General Membership at a General Meeting. Committees may submit requests for anonymized member data to the Steering Committee.
 
 Committees inactive for at least three (3) consecutive months shall be considered defunct. If a Committee is found to be defunct, the Steering Committee will schedule a vote for dissolution at the next available General Meeting and notify the General Membership. Additional privileges, such as access to social media, phonebank, and textbank lists, are subject to approval by the Steering Committee and may be revoked. If the Steering Committee finds that a Committee has failed to conduct its internal affairs according to SNHDSA bylaws or to have acted in violation of formally adopted resolutions or policies of SNHDSA, the Steering Committee may vote to suspend all officially sanctioned meetings, operations, and/or business of the Committee until the next General Meeting, at which point General Membership will vote on the question of dissolving the Committee.
 
-### Section 3.1 Privileges of Committees 
+### Section 3.1 Privileges of Committees
 
-Committees will be guaranteed reasonable use of the Local’s internal communications systems to advertise meetings to members shall further be entitled to basic support from the Communications and Membership Committees (at the discretion of those Committees and their chairs). Committees will be guaranteed reasonable use of physical and virtual meeting spaces operated by the Local (e.g., a Zoom account or an office). Committees may submit requests for limited Membership Data, (i.e. names, phone numbers, general location) to the Secretary. 
+Committees will be guaranteed reasonable use of the Local’s internal communications systems to advertise meetings to members shall further be entitled to basic support from the Communications and Membership Committees (at the discretion of those Committees and their chairs). Committees will be guaranteed reasonable use of physical and virtual meeting spaces operated by the Local (e.g., a Zoom account or an office). Committees may submit requests for limited Membership Data, (i.e. names, phone numbers, general location) to the Secretary.
 
 Additional privileges, such as social media access and access to phone bank and text bank lists, are subject to prior approval by the Steering Committee and may be revoked. Without approval by the Steering Committee or Chapter Membership at a General Meeting, Committees are prohibited from liaising officially with other organizations, giving official chapter statements or endorsements, or starting campaigns. These actions can be proposed via resolution at a General Meeting or a request directed towards the Steering Committee if it is a time-sensitive matter.
 
@@ -184,31 +183,31 @@ All Committee chairs will be appointed by the Steering Committee, unless the Gen
 
 ### Section 3.3 Ex-Officio Presiding Officers
 
-The Steering Committee should take an active role in Internal Bodies, and reserves the right to Chair the three (3) following Committees; The Fundraising Committee shall consist of the SNHDSA Treasurer, serving as Ex-Officio Presiding Officer, as well as SNHDSA members. The Fundraising Committee shall be responsible for assisting the Treasurer in their preparation of the annual budget, financial record-keeping, proposing amendments to the SNHDSA fiscal policy, and assisting the Treasurer in the preparation of tax filing. The Fundraising Committee shall also nominate one (1) member, who is not the Treasurer to serve as Trustee of the Funds who will be allowed access to the SNHDSA bank account in the event that the Treasurer is unable to do so. The nomination of the Trustee of the Funds shall be approved by the Steering Committee by majority vote. 
+The Steering Committee should take an active role in Internal Bodies, and reserves the right to Chair the three (3) following Committees; The Fundraising Committee shall consist of the SNHDSA Treasurer, serving as Ex-Officio Presiding Officer, as well as SNHDSA members. The Fundraising Committee shall be responsible for assisting the Treasurer in their preparation of the annual budget, financial record-keeping, proposing amendments to the SNHDSA fiscal policy, and assisting the Treasurer in the preparation of tax filing. The Fundraising Committee shall also nominate one (1) member, who is not the Treasurer to serve as Trustee of the Funds who will be allowed access to the SNHDSA bank account in the event that the Treasurer is unable to do so. The nomination of the Trustee of the Funds shall be approved by the Steering Committee by majority vote.
 
-The Membership Committee shall consist of the SNHDSA Secretary serving as Ex-Officio Presiding Officer, as well as SNHDSA members. The Membership Committee will be responsible for engaging and growing the membership of SNHDSA through activities such as, but not limited to, phonebanks, textbanks, tabling, and assisting the Secretary in their maintenance of the SNHDSA membership list. The Membership Committee shall maintain a new member onboarding process to acclimate new SNHDSA members to the chapter. The Membership Committee Chair will coordinate with the Steering Committee to direct SNHDSA members to needed initiatives and assist with promotion of chapter activities. 
+The Membership Committee shall consist of the SNHDSA Secretary serving as Ex-Officio Presiding Officer, as well as SNHDSA members. The Membership Committee will be responsible for engaging and growing the membership of SNHDSA through activities such as, but not limited to, phonebanks, textbanks, tabling, and assisting the Secretary in their maintenance of the SNHDSA membership list. The Membership Committee shall maintain a new member onboarding process to acclimate new SNHDSA members to the chapter. The Membership Committee Chair will coordinate with the Steering Committee to direct SNHDSA members to needed initiatives and assist with promotion of chapter activities.
 
-The Communications Committee shall consist of one (1) of the Co-Chairs serving as Ex-Officio Presiding Officer, as well as SNHDSA members. The Communications Committee shall be responsible for the writing and dissemination of a semi-regular chapter bulletin to be delivered at minimum over email, the maintenance of our SNHDSA Action Network activities, assisting the Chairperson in their responsibilities handling SNHDSA social media, as well as managing communications, inquiries, as well as fostering and growing relationships with local media, press, and comrade organizations. The Ex-Officio Presiding Officers shall have the authority to delegate the position of Committee Chair for their respective Committee to a member in good standing provided the following conditions are met: A) that the work of the committee can be reasonably expected to continue as normal, and B) that the Ex-Officio Presiding Officer is able to provide adequate oversight to the committee and step in when necessary. 
+The Communications Committee shall consist of one (1) of the Co-Chairs serving as Ex-Officio Presiding Officer, as well as SNHDSA members. The Communications Committee shall be responsible for the writing and dissemination of a semi-regular chapter bulletin to be delivered at minimum over email, the maintenance of our SNHDSA Action Network activities, assisting the Chairperson in their responsibilities handling SNHDSA social media, as well as managing communications, inquiries, as well as fostering and growing relationships with local media, press, and comrade organizations. The Ex-Officio Presiding Officers shall have the authority to delegate the position of Committee Chair for their respective Committee to a member in good standing provided the following conditions are met: A) that the work of the committee can be reasonably expected to continue as normal, and B) that the Ex-Officio Presiding Officer is able to provide adequate oversight to the committee and step in when necessary.
 
 If a Presiding Officer is found to be in violation of these agreed upon standards and responsibilities, and does not appoint a member in good standing to the Committee Chair position, through a two-thirds (2/3) vote the Steering Committee can simultaneously recall the Ex-Officio Presiding Officer from their respective Committee Chair position, and appoint a new Committee Chair.
 
 ## **Section 4\. Working Groups**
 
-A Working Group is a group of members that associate due to a shared interest or external goal that requires community engagement. Working Groups may be established for the purpose of initial, exploratory, and educational activities relevant to the aims of the Local and the purview of the Working Group, such as pilot programs, specific political education, and research activities. Working groups will be defined as issue-based (e.g., labor) or identity-based (e.g., queer socialists). 
+A Working Group is a group of members that associate due to a shared interest or external goal that requires community engagement. Working Groups may be established for the purpose of initial, exploratory, and educational activities relevant to the aims of the Local and the purview of the Working Group, such as pilot programs, specific political education, and research activities. Working groups will be defined as issue-based (e.g., labor) or identity-based (e.g., queer socialists).
 
-Working Groups may be created by a vote of the General Membership at a General Meeting by way of passing a resolution. The resolution must describe an area of work that is not currently within the jurisdiction of another Internal Body of the Local, that is related to the purposes of the Local, and provide a detailed charter for the proposed Working Group. The resolution must identify one chair of the Working Group. 
+Working Groups may be created by a vote of the General Membership at a General Meeting by way of passing a resolution. The resolution must describe an area of work that is not currently within the jurisdiction of another Internal Body of the Local, that is related to the purposes of the Local, and provide a detailed charter for the proposed Working Group. The resolution must identify one chair of the Working Group.
 
-The Working Group will be responsible for communicating with the Steering Committee about the activities and business of the Working Group. The Chapter Secretary will keep a regularly-updated list of recognized Working Groups and ensure the website is up-to-date with them. 
+The Working Group will be responsible for communicating with the Steering Committee about the activities and business of the Working Group. The Chapter Secretary will keep a regularly-updated list of recognized Working Groups and ensure the website is up-to-date with them.
 
 Working Groups may be dissolved by a vote of General Membership at a General Meeting of the Local Chapter if either General Membership or the Steering Committee finds the Working Group to be defunct, to have failed to conduct its internal affairs according to SNHDSA bylaws, or to have acted in violation of formally adopted resolutions or policies of SNHDSA. Working Groups inactive for three (3) consecutive months shall be considered formally defunct. If a Working Group is found to be defunct, the Steering Committee will schedule a vote for dissolution at the next available General Meeting and notify the General Membership.
 
 ### Section 4.1 Privileges of Working Groups
 
-Working Groups will be guaranteed reasonable use of physical and virtual meeting spaces operated by the Local (e.g., a Zoom account or an office), and shall further be entitled to basic support from the Communications and Membership Committees (at the discretion of those Committees and their Chairs). Working Groups may submit requests for limited Membership Data, (i.e. names, phone numbers, general location) to the Secretary. 
+Working Groups will be guaranteed reasonable use of physical and virtual meeting spaces operated by the Local (e.g., a Zoom account or an office), and shall further be entitled to basic support from the Communications and Membership Committees (at the discretion of those Committees and their Chairs). Working Groups may submit requests for limited Membership Data, (i.e. names, phone numbers, general location) to the Secretary.
 
 Additional privileges, such as access to social media, and access to phone bank and text bank lists, are subject to approval by the Steering Committee and may be revoked. Working Groups cannot endorse events or individuals, publish statements, or officially participate in campaigns without approval from the General Body through a majority vote at a General Meeting. In cases where a membership vote would be untimely or otherwise inopportune, the Steering Committee is permitted to vote for approval in place of the General Body. In such matters where a member of the Steering Committee is leading the Working Group, said member should recuse themselves from the vote, and if the Steering Committee cannot come to a consensus the vote shall be given to the General Body.
 
-### **Section 4.2 Working Group Leadership** 
+### **Section 4.2 Working Group Leadership**
 
 Working Groups will be led by at least one (1) chair while Working Group membership does not surpass twelve (12) active members. Working Groups will be led by no more than two (2) Co-Chairs while Working Group membership does surpass twelve (12) active members. Working Groups are responsible for electing their own chair(s) with a vote of the Working Group’s membership. If one or both co-chair slots are unable to be filled for over three months, the working group will be automatically dissolved. To be renewed, following a successful renewal vote at an Annual Convention, Working Groups must file quarterly reports with the Secretary relating the Working Group’s activities over the course of the calendar year.
 
@@ -220,9 +219,9 @@ A Branch is a subgroup chartered by SNHDSA consisting of at least five (5) membe
 
 ### Section 5.2 Establishment of Branches
 
-A charter application must be made by written resolution, endorsed by five (5) members in good standing of the Chapter who would be members of the Branch, and submitted to the Steering Committee two (2) weeks in advance of a General or Annual Meeting. Once received, the Steering Committee must provide the General Membership at least one week of written notice of the endorsed charter. 
+A charter application must be made by written resolution, endorsed by five (5) members in good standing of the Chapter who would be members of the Branch, and submitted to the Steering Committee two (2) weeks in advance of a General or Annual Meeting. Once received, the Steering Committee must provide the General Membership at least one week of written notice of the endorsed charter.
 
-A charter application must define the purpose of the Branch, the nature of its leadership, the scope and nature of its membership, a list of the zip codes the Branch will represent, and how the Branch makes decisions. The geography of one Branch shall not overlap with another Branch’s geography. The General Body may approve a charter application under this article by a simple majority vote. 
+A charter application must define the purpose of the Branch, the nature of its leadership, the scope and nature of its membership, a list of the zip codes the Branch will represent, and how the Branch makes decisions. The geography of one Branch shall not overlap with another Branch’s geography. The General Body may approve a charter application under this article by a simple majority vote.
 
 ### Section 5.3 Meetings
 
@@ -246,14 +245,14 @@ All Internal Bodies must maintain membership rolls and provide them to the Chapt
 
 The Rules contained in *Robert’s Rules of Order, Newly Revised*, shall govern this Local Chapter in cases to which they are applicable and in which they are not inconsistent with these Bylaws.
 
-## **Section 2\.** 
+## **Section 2\.**
 
 Any action taken by an officer or member of the Local Chapter in contravention of these Bylaws is null and void.
 
-## **Section 3\.** 
+## **Section 3\.**
 
-SNHDSA may be dissolved by a ⅔ majority vote of membership at the Annual meeting. In the event of dissolution all chapter assets are returned to the Democratic Socialists of America. 
+SNHDSA may be dissolved by a ⅔ majority vote of membership at the Annual meeting. In the event of dissolution all chapter assets are returned to the Democratic Socialists of America.
 
-## **Section 4\.** 
+## **Section 4\.**
 
 Proposed revisions or amendments to these bylaws must be made by written resolution, endorsed by two (2) SNHDSA members in good standing, and submitted to the steering committee two (2) weeks in advance of a general or annual meeting. Once received the steering committee must provide the general membership at least one week of written notice of the endorsed revisions or amendments. The revision or amendment must be approved by a ⅔ majority vote of the general membership present at any general or annual meeting.
